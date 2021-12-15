@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  topItems
+
+  Created by user on 2021/12/12.
+  
+*/
+
+"Alert.Action.okay" = "Okay";
+"Alert.Action.retry" = "Retry";
+
+"Navigation.topItems" = "Top Items";
+"Navigation.favorites" = "Favorites";
+"Navigation.item" = "Item";
+
+"Table.primeType" = "Type";
+"Table.subType" = "Sub Type";
+"Table.items" = "Items";
+"Table.endOfList" = "End of list";
+
+"PrimeType.anime" = "Anime";
+"PrimeType.manga" = "Manga";
+
+// Both
+"SubType.bypopularity" = "By Popularity";
+"SubType.favorite" = "Favorite";
+// Anime
+"SubType.airing" = "Airing";
+"SubType.upcoming" = "Upcoming";
+"SubType.tv" = "TV";
+"SubType.movie" = "Movie";
+"SubType.ova" = "OVA";
+"SubType.special" = "Special";
+// Manga
+"SubType.manga" = "Manga";
+"SubType.novels" = "Novel";
+"SubType.oneshots" = "One-Shot";
+"SubType.doujin" = "Doujinshi";
+"SubType.manhwa" = "Manhwa";
+"SubType.manhua" = "Manhua";
+
+"Item.Title.start" = "Start:";
+"Item.Title.end" = "End:";
